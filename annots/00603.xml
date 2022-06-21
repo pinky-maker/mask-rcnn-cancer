@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_tfod</folder>
+	<filename>SUNDER LAL __(Thursday-04-2021_16-59-35-265630).jpg</filename>
+	<path>C:\Users\Dell\Downloads\yolodemo\tfod\test_tfod\SUNDER LAL __(Thursday-04-2021_16-59-35-265630).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>66</ymin>
+			<xmax>114</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

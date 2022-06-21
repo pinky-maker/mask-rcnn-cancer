@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_tfod</folder>
+	<filename>ABDUL SUBHAN__(Friday-05-2021_17-38-22-0000123).jpg</filename>
+	<path>C:\Users\Dell\Downloads\yolodemo\tfod\train_tfod\ABDUL SUBHAN__(Friday-05-2021_17-38-22-0000123).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>58</ymin>
+			<xmax>74</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

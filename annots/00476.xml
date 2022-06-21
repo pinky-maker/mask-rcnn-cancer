@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_tfod</folder>
+	<filename>MANISH__(Friday-05-2021_17-38-23-6406137).jpg</filename>
+	<path>C:\Users\Dell\Downloads\yolodemo\tfod\train_tfod\MANISH__(Friday-05-2021_17-38-23-6406137).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>48</ymin>
+			<xmax>120</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
